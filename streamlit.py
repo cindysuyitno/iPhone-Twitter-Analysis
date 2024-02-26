@@ -144,12 +144,12 @@ we conclude that there is no statistically significant difference in sentiment t
 code_and_notebook = """
 For transparency and reproducibility, the source code for our project components is accessible via the following links:
 
-- Github repo project: https://github.com/cindyyyyyyyyyyyyy/iPhone-Sentiment-Analysis/tree/main
-- Crawling twitter: https://github.com/cindyyyyyyyyyyyyy/iPhone-Sentiment-Analysis/blob/main/crawl_twitter.ipynb
+- Github repo project: https://github.com/cindysuyitno/iPhone-Twitter-Analysis
+- Crawling twitter: https://github.com/cindysuyitno/iPhone-Twitter-Analysis/blob/main/crawl_twitter.ipynb
 - Models training: https://github.com/cindysuyitno/Sentiment-Analysis/blob/main/sentiment%20analysis.ipynb
-- Sentiment predicting: https://github.com/cindyyyyyyyyyyyyy/iPhone-Sentiment-Analysis/blob/main/predict_sentiment.ipynb
-- Hypothesis testing: https://github.com/cindyyyyyyyyyyyyy/iPhone-Sentiment-Analysis/blob/main/hypothesis_testing.ipynb
-- Streamlit: https://github.com/cindyyyyyyyyyyyyy/iPhone-Sentiment-Analysis/blob/main/streamlit.py
+- Sentiment predicting: https://github.com/cindysuyitno/iPhone-Twitter-Analysis/blob/main/predict_sentiment.ipynb
+- Hypothesis testing: https://github.com/cindysuyitno/iPhone-Twitter-Analysis/blob/main/hypothesis_testing.ipynb
+- Streamlit: https://github.com/cindysuyitno/iPhone-Twitter-Analysis/edit/main/streamlit.py
 """
 
 conclusion = """
