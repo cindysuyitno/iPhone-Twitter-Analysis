@@ -14,7 +14,7 @@ Python (Pandas, Matplotlib, Seaborn, Pickle, Sklearn, Scipy), Streamlit
   - Grouping data into three periods: pre-COVID, during COVID, post-COVID
 ### Hypothesis Testing:
   - Hypothesis testing used: ANOVA, Paired t-test, Mann Whitney U-Test, Wilcoxon Signed-Rank Test, Kruskal-Wallis Test
-  - The result is fail to reject null hypothesis
+  - The result is fail to reject null hypothesis (p-value is more than the significance level, which is 0.05)
   - Conclusion: there is not enough evidence to conclude that the sentiment score is difference before, during, and after COVID.
 ### Webpage by Streamlit:
   - The twitter analysis is displayed using Streamlit
