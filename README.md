@@ -1,6 +1,8 @@
 # iPhone-Twitter-Analysis
 From nothing to the top S&P Companies by Market Cap in 2020, Apple has mark its teritory as a global giant. The iPhone, launched in 2007, wasn't just a phone; it set new standards for mobile tech. It influenced culture and commerce, becoming a symbol of luxury. During the height of the pandemic in 2020 and 2021, sentiment towards the iPhone may have fluctuated as consumers' needs and priorities evolved in response to changing circumstances. Factors such as reliability, connectivity, and the availability of digital services likely became more salient considerations for consumers evaluating their smartphone choices. The aim of this project is to analyze iPhone reviews on platforms like Twitter to examine if the sentiment towards the iPhone shifted before, during, and after the COVID pandemic. By examining trends and patterns in consumer opinions, we can gain insights into the evolving role of the iPhone in the lives of users and its resilience in the face of unprecedented challenges.
 
+See the summary of this project in slides here: https://drive.google.com/file/d/1cd6clQaeyu2BPy3Z612K94MuWOI2lWiu/view?usp=sharing and in dashboard here: https://iphone-sentiment-analysis.streamlit.app/
+
 # Technologies used
 Python (Pandas, Matplotlib, Seaborn, Pickle, Sklearn, Scipy), Streamlit
 
